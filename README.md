@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/122.gif" />
+<!-- <img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/122.gif" /> -->
 
 <h1 align="center">Hi, I'm Imad Ul Haque <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 

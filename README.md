@@ -1,6 +1,6 @@
 <img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/122.gif" />
 
-<h1 align="center">Hi 👋, I'm Imad Ul Haqeu</h1>
+<h1 align="center">Hi 👋, I'm Imad Ul Haque</h1>
 <h3 align="center">A passionate Data Analyst from India.Transforming Data into Insights, Uncovering Trends and Insights Through Data Analysis and Visualization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imad-ul-haque&label=Profile%20views&color=0e75b6&style=flat" alt="imad-ul-haque" /> </p>

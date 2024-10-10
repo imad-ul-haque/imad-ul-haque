@@ -15,7 +15,8 @@
 - 📊 Experienced in handling large datasets and deriving actionable insights.
 - 💼 Proven track record in delivering successful projects within tight deadlines as a team lead.
 - 🌍 Based in Moradabad, Uttar Pradesh.
-- 🔭 I’m currently working on my **Lok Sabha Elections Analysis** project. 
+- 🔭 I’m currently working on my **Lok Sabha Elections Analysis** project.
+- 🧮 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on **Any Data Analysis Project**
 - 💬 Ask me about **Python SQL PowerBI Excel**
 - 📫 How to reach me **imadulhaque90@gmail.com**
@@ -26,7 +27,7 @@
 [![Static Badge](https://img.shields.io/badge/kaggle-darkblue?logo=kaggle&logoColor=white)](https://www.kaggle.com/imadulhaque)
 <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ahamednaushad10) -->
 
-## 💻 Languages and Tools:
+## 💻 Languages and Tools I Use:
 
 ![PYTHON](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -44,8 +45,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imad-ul-haque&show_icons=true&locale=en" alt="imad-ul-haque" width='48%' height="80%" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imad-ul-haque&" alt="imad-ul-haque"  width='48%' />
 
 
+<!--END_SECTION:waka-->
 
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
 
